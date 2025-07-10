@@ -4,12 +4,17 @@ Sunbundler is an extractor for .sbundle (shortcut bundle) packages. It can insta
 
 ## installation
 
-Download the Sunbundler.zip file, move to and extract inside 'iCloud drive/Shortcuts'. Then you can delete it. Inside the shortcuts app, create two folders; one called bin and the other called lib. After this, all the layout should be done. The final step is to download 
+Inside the shortcuts app, create two folders; one called bin and the other called lib. Then, download 
  these iCloud shortcuts:
  - https://www.icloud.com/shortcuts/9ccf949ef19b45dd89be2ef6ef5ba209
  - https://www.icloud.com/shortcuts/3103431ec7a14fecbf1111e6a4e4ec28
+ - https://www.icloud.com/shortcuts/98f48c04ca4d4910acd4b4f9a8319f9d
 
-After that, you can install .sbundle files with the Sunbundler shortcut.
+To complete installation, run 'Sunbundler installer.' After that, you can install .sbundle files with the Sunbundler shortcut.
+
+## how to install packages
+
+Download the .sbundle file, such as lib/sbundles/helloWorld/helloWorldLatest.sbundle. Run 'Sunbundler,' and select the file you downloaded. After it completes, run 'Sunbundler install helper' over and over again until the installation is complete. Then you can use it (for example, run bin/helloWorldX.Y.Z).
 
 ## .sbundle format:
  sbundles are renamed .zip files with the contents:
@@ -19,6 +24,8 @@ After that, you can install .sbundle files with the Sunbundler shortcut.
  - lib/file/, lib/web/, bin/file/, bin/web/: required shortcuts either as .shortcut files (file) or iCloud links as .txt (web)
  - deps/: group of required .sbundle files
  - data/: initial data folder contents
+
+For a concrete example, see libHelloWorld or helloWorld.
 
 ## future features
 
