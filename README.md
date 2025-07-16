@@ -1,20 +1,23 @@
-# Sunbundler: Alpha 1.0.0
+# Sunbundler: Alpha 1.1.0
 
-Sunbundler is an extractor for .sbundle (shortcut bundle) packages. It can install packages with recursive dependencies. It lets you install (uninstallation and creation are not implemented yet) executables and libraries.
+Sunbundler is an extractor for .sbundle (shortcut bundle) packages. It can install packages with recursive dependencies. It lets you install and uninstall (creation is not implemented yet) executables and libraries.
 
 ## installation
 
-Inside the shortcuts app, create two folders; one called bin and the other called lib. Then, download 
+Download 
  these iCloud shortcuts:
  - https://www.icloud.com/shortcuts/9ccf949ef19b45dd89be2ef6ef5ba209
  - https://www.icloud.com/shortcuts/3103431ec7a14fecbf1111e6a4e4ec28
+ - https://www.icloud.com/shortcuts/4db1ddd825404528ab2cb9ca324ed57e
  - https://www.icloud.com/shortcuts/98f48c04ca4d4910acd4b4f9a8319f9d
 
-To complete installation, run 'Sunbundler installer.' After that, you can install .sbundle files with the Sunbundler shortcut.
+To install, run 'Sunbundler installer.' After that, you can install .sbundle files with the Sunbundler shortcut.
 
 ## how to install packages
 
 Download the .sbundle file, such as lib/sbundles/helloWorld/helloWorldLatest.sbundle. Run 'Sunbundler,' and select the file you downloaded. After it completes, run 'Sunbundler install helper' over and over again until the installation is complete. Then you can use it (for example, run bin/helloWorldX.Y.Z).
+
+To uninstall packages (and unneeded dependencies), run 'Uninstall sbundle.'
 
 ## .sbundle format:
  sbundles are renamed .zip files with the contents:
