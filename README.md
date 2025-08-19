@@ -1,6 +1,6 @@
 # sbundle-repo
 
-Package repository for Sunbundler.
+Package repository for Sunbundler: a package manager for shortcuts. It can install packages with recursive dependencies. It lets you install and uninstall packages containing shortcuts, shell scripts, and javascript files.
 
 ## Installation
 
