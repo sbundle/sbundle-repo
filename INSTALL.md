@@ -15,6 +15,7 @@ Now, you should have 4 shortcuts in bin: Sunbundler, Sunbundler Install Helper, 
 If you want to install the Xcuts shell (ShortTerm), you'll need to download it at https://github.com/sbundle/sbundle-repo/raw/refs/heads/main/lib/sbundles/ShortTerm/ShortTermLatest.sbundle. Then, run Sunbundler and select the package. After Sunbundler finishes, run Sunbundler Install Helper over and over again as with Sunbundler. Then you can use the shell as well.
 To use the shell, run ShortTermX.X.X (version info is embedded in shortcut names to avoid conflicts). Then you can type any command listed here:
 
- head, in2file, out2file, touch, mkdir, pwd, file, file2var, date, echo, wget, cd, qlook, set, exit, catargs, mail, tail, run, grep, rmdir, rm, ls, cp, sort, cat, mv, man.sh, help.sh, ed1.0.0
+ head, in2file, out2file, touch, mkdir, pwd, file, file2var, date, echo, wget, cd, qlook, set, exit, catargs, mail, tail, run, grep, rmdir, rm, ls, cp, sort, cat, mv, man.sh, help.sh, $SB
 
 any of these commands, besides the last three, can be looked up by typing "man.sh [...]".
+The last three are: man.sh -> manual page lookup, help.sh -> package README lookup, $SB -> project editor.
