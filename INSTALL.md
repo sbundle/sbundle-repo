@@ -5,7 +5,7 @@
 Installing Sunbundler is a simple 3-step process.
 
 1. Run this shortcut: https://www.icloud.com/shortcuts/f445b8eb86c242ceb1b3788d15d4e735. You will only need to run it once, to create Xcuts's ROOTFS.
-2. Get these shortcuts: https://www.icloud.com/shortcuts/4b2ffc16de2146d3a9fe2449dd5b22ff and https://www.icloud.com/shortcuts/340dc6e650334f3589c1ef0c9c55236f. These let you install packages. Move them to the bin folder in shortcuts created in step 1, and then you're ready to install packages.
+2. Get these shortcuts: https://www.icloud.com/shortcuts/b482c424e11440638991fb1c7d662c71 and https://www.icloud.com/shortcuts/f128cd7e0d69424fa18407d4d22fd979. These let you install packages. Move them to the bin folder in shortcuts created in step 1, and then you're ready to install packages.
 3. Install the rest of Sunbundler by downloading https://github.com/sbundle/sbundle-repo/raw/refs/heads/main/lib/sbundles/Sunbundler/SunbundlerLatest.sbundle. To install it, run Sunbundler and select the downloaded file. Once Sunbundler finishes, run Sunbundler Install Helper again and again until it says that the package is installed.
 
 Now, you should have 4 shortcuts in bin: Sunbundler, Sunbundler Install Helper, Uninstall Sbundle, and Sunbundler Update.
