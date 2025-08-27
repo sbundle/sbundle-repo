@@ -19,3 +19,11 @@ To use the shell, run ShortTermX.X.X (version info is embedded in shortcut names
 
 any of these commands, besides the last three, can be looked up by typing "man.sh [...]".
 The last three are: man.sh -> manual page lookup, help.sh -> package README lookup, $SB -> project editor.
+
+## Installing UICuts
+
+
+If you want to install the Xcuts UI library, you can get it at https://github.com/sbundle/sbundle-repo/raw/refs/heads/main/lib/sbundles/UICuts/UICutsLatest.sbundle.
+Use the install instructions outlined in the above section, but instead of installing a shell, you're installing a UI library.
+
+Run SunbundlerUIX.X.X or HConUIX.X.X to see it in action.
