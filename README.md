@@ -30,7 +30,7 @@ For a concrete example, see libHelloWorld or helloWorld.
 
 ## future plans
 
-* A UI library using html and uuid tabs and shortcuts:// callbacks.
+Nothing right now, you can make suggestions to mjbrewer17@gmail.com.
 
 ## bugs
 
