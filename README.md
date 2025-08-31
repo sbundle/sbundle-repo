@@ -30,7 +30,7 @@ For a concrete example, see libHelloWorld or helloWorld.
 
 ## future plans
 
-Nothing right now, you can make suggestions to mjbrewer17@gmail.com.
+SVG editor for UICuts
 
 ## bugs
 
