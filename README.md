@@ -30,7 +30,8 @@ For a concrete example, see libHelloWorld or helloWorld.
 
 ## future plans
 
-SVG editor for UICuts
+* SVG editor for UICuts
+* include Typescript transpiler with shortterm
 
 ## bugs
 
