@@ -31,7 +31,8 @@ For a concrete example, see libHelloWorld or helloWorld.
 ## future plans
 
 * SVG editor for UICuts
-* include Typescript transpiler with shortterm
+* JS editor
+* Widget library for UICuts
 
 ## bugs
 
