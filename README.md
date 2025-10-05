@@ -30,10 +30,13 @@ For a concrete example, see libHelloWorld or helloWorld.
 
 ## future plans
 
-* SVG editor for UICuts
 * JS editor
 * Widget library for UICuts
 
 ## bugs
 
 Report all bugs in the issues tab.
+
+## contact info
+
+Contact me at mjbrewer17@gmail.com
