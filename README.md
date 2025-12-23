@@ -4,7 +4,7 @@ Package repository for Sunbundler: a package manager for shortcuts. It can insta
 
 ## Installation
 
-Read about how to install Sunbundler in `INSTALL.md`.
+Read about how to install Sunbundler in [`INSTALL.md`](https://github.com/sbundle/sbundle-repo/blob/master/INSTALL.md).
 
 ## Creating sbundles
 
