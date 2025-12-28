@@ -33,6 +33,10 @@ For a concrete example, see libHelloWorld or helloWorld.
 * JS editor
 * Widget library for UICuts
 
+## credit
+
+Thanks, [Owen Pawling](https://routinehub.co/user/OwenPawling) for helping me make the automatic app dependency detector for sbundler.
+
 ## bugs
 
 Report all bugs in the issues tab.
