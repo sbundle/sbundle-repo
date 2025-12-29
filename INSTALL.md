@@ -1,5 +1,9 @@
 # Installing Xcuts
 
+Video (Sunbundler and ShortTerm):
+
+https://vimeo.com/1149984237
+
 ## Installing Sunbundler
 
 Installing Sunbundler is a simple 3-step process.
