@@ -2,7 +2,7 @@
 
 ## Installing Sunbundler
 
-Run this shortcut: https://www.icloud.com/shortcuts/598923a6577146af9d7884d9a4336b30. You will only need to run it once, to create Xcuts's ROOTFS and start the install process. Every time a shortcut pops up, click add shortcut, quickly. You can review them later.
+Run this shortcut: https://www.icloud.com/shortcuts/fef2d866baaf467181171deaed7242df. You will only need to run it once, to create Xcuts's ROOTFS and start the install process. Every time a shortcut pops up, click add shortcut, quickly. You can review them later.
 
 Now, you should have 4 shortcuts in bin: Sunbundler, Sunbundler Install Helper, Uninstall Sbundle, and Sunbundler Update.
 
